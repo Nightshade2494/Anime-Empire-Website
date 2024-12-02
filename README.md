@@ -37,11 +37,6 @@ Simply open the `index.html` file in any modern web browser to view the website.
 - **CSS**: To style and bring life to the site.
 - **JavaScript**: To add interactivity (e.g., contact form handling).
 
----
-
-## 🎨 Sneak Peek
-
-![Anime Empire Screenshot](https://via.placeholder.com/800x400?text=Anime+Empire+Preview)
 
 ---
 
