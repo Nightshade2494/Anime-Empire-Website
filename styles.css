@@ -12,8 +12,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #1e1e2f;
-    color: #fff;
+    background-color: #fff;
+    color: #1e1e2f;
     padding: 10px 20px;
 }
 header .logo {
